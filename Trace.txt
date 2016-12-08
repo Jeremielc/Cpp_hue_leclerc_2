@@ -1,0 +1,42 @@
+Nombre Complexe :
+re : 2
+im : 3
+
+Réel : 2
+Imaginaire : 3
+Module : 3.60555
+Argument : 0.982794
+
+Affichage sous la forme a + i.b :
+2 + i.3
+Affichage sous la forme a + i.b après permutation :
+3 + i.2
+
+Addition de a(1, 2) avec b(2, 3) :
+4 + i.6
+Soustraction de a(1, 2) avec b(2, 3) :
+-2 + i.-2
+Multiplication de a(1, 2) avec b(2, 3) :
+-5 + i.10
+
+Normalisation du complexe b(3, 4) :
+0.6 + i.0.8
+
+Rotation du complexe a(1, 2) :
+-2 + i.1
+
+Définition à l'aide de la méthode max entre a(1, 2) et b(3, 4) :
+3 + i.4
+Affectation de rMax en tant que paramètre de la fonction display :
+3 + i.4
+Définition a l'aide d'un maximum entre z2(2, 2) et z2² :
+0 + i.8
+
+Racine n-ième :
+1 + i.0
+0.62349 + i.0.781831
+-0.222519 + i.0.974928
+-0.900968 + i.0.433886
+-0.90097 + i.-0.433881
+-0.222525 + i.-0.974927
+0.623486 + i.-0.781834
